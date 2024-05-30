@@ -1,3 +1,5 @@
+Simple Udemy Website
+
 This project is a simple Udemy website created using HTML and basic CSS. It serves as a basic prototype to showcase course listings, navigation, and layout design inspired by the Udemy platform.
 
 **Features:**
